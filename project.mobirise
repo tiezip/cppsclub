@@ -34,7 +34,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/penguin-cup-2014-emoticons-woo-hoo.gif",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
