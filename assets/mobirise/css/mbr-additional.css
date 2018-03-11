@@ -1754,7 +1754,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qLX8C27f5G {
-  background-color: #149dcc;
+  background-color: #232323;
 }
 .cid-qLX8C5K4PI {
   padding-top: 60px;
@@ -3575,7 +3575,7 @@ body {
 .cid-qLY9zWZilV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #149dcc;
+  background-color: #232323;
 }
 .cid-qLY9zWZilV .mbr-section-subtitle {
   color: #767676;
@@ -3626,7 +3626,7 @@ body {
   color: #ffffff;
 }
 .cid-qLY9zWZilV .countdown-cont {
-  background: linear-gradient(45deg, #149dcc, #c8ceaf);
+  background: linear-gradient(45deg, #232323, #ffffff);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -3660,6 +3660,9 @@ body {
   .cid-qLY9zWZilV .period {
     font-size: 0.8rem;
   }
+}
+.cid-qLY9zWZilV H2 {
+  color: #ffffff;
 }
 .cid-qLY9R6WGBp {
   padding-top: 30px;
